@@ -1,1 +1,30 @@
-{}
+{
+  "malak": {
+    "username": "malak",
+    "password": "Malak2008@",
+    "student_type": "علمي",
+    "telegram_user_id": "8278738792",
+    "telegram_username": "mal20ak08",
+    "telegram_first_name": "malak",
+    "profile_photo_url": "https://api.telegram.org/file/bot8617861788:AAFsAqaOxJcdsZ6fMsd53kRVXi7aTmIokWs/photos/file_47.jpg",
+    "session_id": "622039e7-35e4-4bfb-9004-299f5dceebac",
+    "created_at": "2026-05-11T17:55:42.425627",
+    "verified": true,
+    "last_login": "2026-05-11T17:55:46.901330",
+    "balance": 0,
+    "purchased_subjects": [
+      "islamic",
+      "english",
+      "math",
+      "it",
+      "statistics",
+      "chemistry",
+      "physics_electric",
+      "physics_mechanic",
+      "biology",
+      "literary_studies",
+      "linguistic_studies"
+    ],
+    "server_num": 42
+  }
+}
