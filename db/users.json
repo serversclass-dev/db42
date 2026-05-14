@@ -26,5 +26,32 @@
       "linguistic_studies"
     ],
     "server_num": 42
+  },
+  "shada": {
+    "username": "shada",
+    "password": "shada123456789asA$",
+    "student_type": "علمي",
+    "telegram_user_id": "7588209896",
+    "telegram_username": null,
+    "telegram_first_name": "🍒",
+    "profile_photo_url": "https://api.telegram.org/file/bot8617861788:AAFsAqaOxJcdsZ6fMsd53kRVXi7aTmIokWs/photos/file_91.jpg",
+    "session_id": "8ad810f1-b2a6-4d38-82d3-c55443031dc2",
+    "created_at": "2026-05-13T15:42:30.332693",
+    "verified": true,
+    "last_login": "2026-05-13T15:44:35.612973",
+    "balance": 0,
+    "purchased_subjects": [
+      "islamic",
+      "english",
+      "math",
+      "it",
+      "statistics",
+      "chemistry",
+      "physics_electric",
+      "physics_mechanic",
+      "biology",
+      "linguistic_studies"
+    ],
+    "server_num": 42
   }
 }
